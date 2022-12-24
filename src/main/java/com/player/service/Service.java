@@ -5,6 +5,8 @@ import java.util.List;
 import com.player.entity.Player;
 
 public interface Service {
+
+
 	
 	public Player savePlayer(Player pl); //Tested OK by Test case
 	
