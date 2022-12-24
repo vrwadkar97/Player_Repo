@@ -24,6 +24,9 @@ import com.player.service.Service;
 public class Controller {
 
 	private static final Logger logger=LoggerFactory.getLogger(Controller.class);
+  
+
+
 
 	@Autowired
 	private Service service;
